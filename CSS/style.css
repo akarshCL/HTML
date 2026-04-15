@@ -1,0 +1,84 @@
+h2{
+    color: #c9dbbf;
+}
+
+h1{
+    color: rgb(209, 119, 55);
+    /* border: 2px; */
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: plum; */
+
+    border: 2px solid plum;
+border-radius: 10px;
+    /* text-align: right; */
+  
+}
+.navbar{
+    text-align:  center;
+}
+.card-para{
+    text-align: left;
+}
+.target-html-element{
+    color: rgb(33, 52, 4);
+      border: 15px;
+}
+
+.targetByClassName{
+    /* color: rgb(128, 7, 241); */
+
+  
+    border-style: dashed;
+}
+
+
+.targetForBorder{
+  
+    border-style: solid;
+}
+h2{
+    color: aqua;
+}
+
+.target-html-element{
+    color: rgb(5, 61, 228);
+    color: black;
+}
+
+#targetById{
+    color: rgba(165, 42, 42, 0.767);
+}
+
+.first{
+    color: blue;
+}
+
+.second{
+    
+}
+
+button{
+    border-style: none;
+}
+
+.price{
+    text-decoration: line-through ;
+}
+.card-para{
+    text-decoration: overline;
+    text-decoration: underline overline;
+}
+
+a{
+    text-decoration: none;
+}
+.CIRCLE{
+    width: 400px;
+    height: 400px;
+    border: 2px solid;
+    /* border-radius: 50%; */
+    border-top-left-radius: 50px;
+    /* border-right-bottom-radius:10px ; */
+    border-bottom-right-radius:50px ;
+}
